@@ -6,4 +6,4 @@ export const defaultSetting = {
   systemRule: ""
 }
 
-export const defaultMessage = `-技术支持：郝于斌<br/>-我的网站：www.haoyubin.com<br/>-操作提示：按Ctrl+Enter可发送消息`
+export const defaultMessage = `-技术支持：郝于斌<br/>-我的网站：www.haoyubin.com`
